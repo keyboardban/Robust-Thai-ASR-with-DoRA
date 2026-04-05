@@ -1,0 +1,10 @@
+# .gitignore
+*.zip
+*.csv
+*.mp3
+*.wav
+*.flac
+/hf_cache/
+__pycache__/
+*.safetensors
+*.bin
