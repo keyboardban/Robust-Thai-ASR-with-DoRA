@@ -23,3 +23,6 @@ The fine-tuned DoRA adapter weights are hosted on Hugging Face. We highly recomm
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
+2. Run the inference script
+   python inference.py
